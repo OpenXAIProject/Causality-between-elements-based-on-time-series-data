@@ -2,7 +2,7 @@
 Causal Relation Analysis Algorithm for Asymmetric Multiple Neural Network Learning
 
 # Requirements
-python 2.7, tensorFlow 1.4.1
+python 2.7, TensorFlow 1.4.1
 
 # How to use
 python retain_asym_run.py
