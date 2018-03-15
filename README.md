@@ -7,6 +7,8 @@ python 2.7, tensorFlow 1.4.1
 # How to use
 python retain_asym_run.py
 
+
+> Causality between elements based on time series data Project is based on XAI Project
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
 # XAI Project 
