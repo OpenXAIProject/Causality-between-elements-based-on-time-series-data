@@ -5,7 +5,7 @@ Causal Relation Analysis Algorithm for Asymmetric Multiple Neural Network Learni
 python 2.7, TensorFlow 1.4.1
 
 # How to use
-python retain_asym_run.py
+python run.py
 <br><br><br>
 
 > Causality between elements based on time series data Project is based on XAI Project
